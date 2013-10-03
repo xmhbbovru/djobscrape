@@ -1,0 +1,21 @@
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/testnonexistent.html
+Error reading page that should follow job number 0
+nr with Dice ID 0, nr without 0

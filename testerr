@@ -1,0 +1,27 @@
+http://localhost:8000/test.html
+processing job_nrs 1 through 14
+dice id ok
+dice id ok
+dice id ok
+dice id ok
+dice id ok
+dice id ok
+dice id ok
+no Dice ID: http://localhost:8000/job8.html
+dice id not ok
+no Dice ID: http://localhost:8000/job9.html, removed
+dice id not ok
+dice id ok
+no Dice ID: http://localhost:8000/job11.html, removed
+dice id not ok
+HTTP Error: File not found
+http://localhost:8000/jobnonexistent.html
+HTTP Error: File not found
+http://localhost:8000/jobnonexistent.html
+Detail not read ok, http://localhost:8000/jobnonexistent.html
+dice id not ok
+Found no expected link to job detail in job list at string_ix 2819
+dice id not ok
+Found no expected link to job detail in job list at string_ix 2819
+dice id not ok
+nr with Dice ID 8, nr without 6
